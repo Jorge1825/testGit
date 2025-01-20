@@ -14,3 +14,11 @@ print(number * number2)
 def add(a, b):
     return a + b
 
+
+def authenticator(username, password):
+    if username == "admin" and password == "admin":
+        return True
+    else:
+        return False
+        
+
