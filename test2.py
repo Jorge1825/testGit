@@ -1,5 +1,5 @@
-print("HELLO WORLD")
-print("HELLO WORLD")
+print("HELLO WORLD test2.py")
+print("HELLO WORLD FROM test2.py")
 
 
 number = 10
