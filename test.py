@@ -1,5 +1,5 @@
-print("HELLO WORLD")
-print("HELLO WORLD")
+print("HELLO WORLD yeah")
+print("HELLO WORLD yuju")
 
 
 number = 3 
